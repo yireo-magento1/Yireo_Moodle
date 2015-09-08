@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Yireo_Moodle>
+            <version>0.0.1</version>
+        </Yireo_Moodle>
+    </modules>
+
+    <global>
+        <helpers>
+            <moodle>
+                <class>Yireo_Moodle_Helper</class>
+            </moodle>
+        </helpers>
+    </global>
+</config>
